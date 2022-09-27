@@ -1,0 +1,15 @@
+.board {
+    display: inline-block;
+}
+
+.row {}
+
+.col {
+    display: inline-block;
+    /* border: 1px solid black; */
+    box-sizing: border-box;
+}
+
+.food {
+    background: red;
+}
